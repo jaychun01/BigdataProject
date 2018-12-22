@@ -4,22 +4,22 @@ I have been interested in Big data for several years. I attended lectures relate
 
 ## Description
 ### 1. Company Information  
-The company is cosmetic developing and distribution company targeting B2B distribution such as salon or hospital. It is founded in 2014 and trying to launch new brand for sale to customer directly. 'IOBUD' for new brand name, and 'Barrier cream' for product name.  
+The company is B2B company that developing and distributing cosmetic to salon or hospital. It is founded in 2014 and trying to launch new brand for sale to customer directly. 'IOBUD' for new brand name, and 'Barrier cream' for product name.  
 
 ### 2. Scraped data
 -Duration: Aug/01/2017~Aug/01/2018
 -Total data: 87,062
 -Source: Naver blog, Naver cafe, Naver shopping, Facebook, Instagram
--Keyword: 튼살크림(Stretch marks cream), 임산용품(Maternity goods), 임산부(Pregnant woman), 튼살화장품(Stretch marks cosmetic), 튼살(Stretch marks), and several brands etc.  
+-Keyword: 튼살크림(Stretch mark cream), 임산용품(Maternity goods), 임산부(Pregnant woman), 튼살화장품(Stretch mark cosmetic), 튼살(Stretch marks), and several brands etc.  
 
 ### 3.Trend
 #### - Pregnant woman, Maternity goods
-First, we wanted to know about what pregnant woman is interested.  
+First, we wanted to know about what pregnant woman is interested in.  
 ![image](https://user-images.githubusercontent.com/36698150/50203586-5ca03080-03a5-11e9-9fe8-745d0f681a45.png)  
 We concluded stretch marks cosmetic is one of the most important goods for pregnant woman. And they refered naver blog the most.  
 
 #### - Couse of stretch marks, Treatment of stretch marks
-However, we had a hard time to find meaningful information about stretch marks cosmetic as there were lots of social marketing advertisements. I decided to look up how people thought about stretch marks.  
+However, we had a hard time to find meaningful information about stretch mark cosmetic as there were lots of social marketing advertisements. I decided to look up how people thought about stretch marks.  
 ![image](https://user-images.githubusercontent.com/36698150/50204070-e00e5180-03a6-11e9-842a-ebac05c015b5.png)  
 As a result, we concluded the pregnant woman was expecting functional product or treatment to reduce stretch marks. Therefore we suggested the company to take safety certification above all.
 
